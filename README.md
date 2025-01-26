@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Master's student in Computer Science at the 
 
 ## 🚀 Featured Projects
 
-### 1. [🌿 Todo List with Django & Test-Driven Development (TDD)](https://github.com/Chakradhar6304/todo-list-django-tdd)
+### 1. [🌿 Todo List with Django & Test-Driven Development (TDD)]([https://github.com/Chakradhar6304/todo-list-django-tdd](https://github.com/Chakradhar6304/To-do-List-Django))
 
 - 🎨 Built a full-stack application using Django with TDD principles.
 - 🔧 Developed unit tests and automated workflows to ensure reliability.
