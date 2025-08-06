@@ -1,70 +1,92 @@
-# 👋 Hi there, I'm **Chakradhar Reddy Nemalidinne**!
+# 👋 Hey, I'm Chakradhar Reddy Nemalidinne!
 
-Welcome to my GitHub profile! I'm a Master's student in Computer Science at the University of Akron, passionate about software development, machine learning, and DevOps. I enjoy building scalable applications and creating efficient CI/CD pipelines. Let's dive into my work!
-
----
-
-## 🎨 About Me
-
-- 🌐 Exploring the intersection of **technology** and **innovation**.
-- 🌟 Currently learning advanced concepts in **DevOps** and **Software Security**.
-- 🔍 Always curious about new **tech stacks** and **development practices**.
+🎓 Master's in Computer Science @ University of Akron (May 2025)  
+📍 San Francisco, CA | Open to Remote & Relocation  
+💻 Software Engineer | ML/AI Enthusiast | DevOps Practitioner  
+📫 chakradharnemali@gmail.com | [LinkedIn](https://linkedin.com/in/chakradhar-n) | [GitHub](https://github.com/Chakradhar6304)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 1. [🌿 Todo List with Django & Test-Driven Development (TDD)](https://github.com/Chakradhar6304/To-do-List-Django)
-
-- 🎨 Built a full-stack application using Django with TDD principles.
-- 🔧 Developed unit tests and automated workflows to ensure reliability.
-- 📊 Integrated PostgreSQL for efficient task management.
-
-### 2. [🚜 CI/CD Pipeline Implementation](https://github.com/Chakradhar6304/ci-cd-pipeline)
-
-- 🌐 Automated workflows with GitHub Actions, Docker, and CircleCI.
-- 🔄 Constructed multi-architecture builds using Docker Compose and CMake.
-- 🔝 Explored best practices in version control, testing, and deployment.
-
-### 3. [🔧 Resume Filtering System](https://github.com/Chakradhar6304/resume-filtering-system)
-
-- 🧬 Developed a Python and TensorFlow-based NLP system for resume screening.
-- 📈 Automated classification by extracting key information like skills and experience.
-- 🔄 Streamlined the hiring process for recruiters.
+I’m a builder at heart with a strong passion for **software engineering**, **AI/ML**, and **DevOps**. I thrive in environments where I can work across the stack, optimize systems, and automate workflows — all while building meaningful tech that scales.
 
 ---
 
-## 🔧 Skills & Tools
+## 🧠 Areas of Interest
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+- 🧑‍💻 **Software Engineering**: API development, full-stack systems, microservices
+- 🤖 **Machine Learning & AI**: LLMs, NLP, prompt engineering, model serving
+- 🔁 **DevOps & MLOps**: CI/CD, cloud infrastructure, ML pipelines, observability
 
 ---
 
-## 📩 Get in Touch
+## 🔧 Tech Stack
 
-- 📧 Email: [chakradharnemali@gmail.com](mailto:chakradharnemali@gmail.com)
-- 👨‍🎓 LinkedIn: [Chakradhar Nemalidinne](https://linkedin.com/in/chakradhar-n)
-- 🔧 GitHub: [Chakradhar6304](https://github.com/Chakradhar6304)
+### 🧑‍💻 Software Engineering
+- **Languages**: Python, Java, JavaScript (React/Node), TypeScript, C, C++, SQL
+- **Frameworks**: Flask, FastAPI, Django, Express.js
+- **Frontend**: ReactJS, HTML5, CSS3, REST APIs, WebSockets, UI Component Design
+- **Testing**: PyTest, JUnit, Postman, Cypress, Unit & Integration Testing
+- **Architecture & Patterns**: MVC, OOP, TDD, Clean Code, Agile/Scrum, Design Patterns
+
+### 🤖 ML / AI Engineering
+- **ML Libraries**: TensorFlow, PyTorch, scikit-learn, spaCy, NLTK
+- **LLM Tools**: LangChain, LlamaIndex, Hugging Face Transformers, Prompt Engineering, Fine-Tuning, RLHF
+- **Use Cases**: Classification, Vector Search, Resume Screening, Embedding Models, RAG
+- **Model Deployment**: TensorFlow Serving, Triton Inference Server, ONNX, TorchServe
+- **Experiment Tracking**: MLflow, Weights & Biases
+
+### 🔁 DevOps & MLOps
+- **CI/CD Tools**: GitHub Actions, CircleCI, Jenkins
+- **Containerization & Orchestration**: Docker, Kubernetes (basic), Docker Compose
+- **Infra as Code**: Terraform (GCP), Make, CMake
+- **Monitoring & Observability**: Prometheus, Grafana, PowerBI, Telemetry Logging
+- **Pipeline Orchestration**: Apache Airflow, Prefect
+- **Version Control**: Git, GitHub, GitLab
+
+### ☁️ Cloud Platforms
+- **GCP**: Cloud Functions, Cloud Run, Compute Engine, Vertex AI
+- **AWS**: EC2, S3, Lambda, SageMaker, DynamoDB
+- **Databases**: PostgreSQL, MySQL, SQLite, MongoDB, Firebase (basic)
 
 ---
 
-## 🌍 Fun Fact
+## 🛠️ Projects I'm Proud Of
 
-> "Technology is best when it brings people together." — Matt Mullenweg
+### 🤖 GPT Workflow Assistant
+Built a GPT-4 assistant using LangChain + FAISS + Cloud Functions.  
+Added prompt tuning + RL to improve contextual accuracy and deploy it as a low-latency microservice.
+
+### 📄 Resume Screening Engine
+Used TensorFlow + spaCy to classify resumes and extract structured profiles.  
+Fully automated via Python APIs, CI/CD pipelines, and containerized deployment.
+
+### 🔁 CI/CD Data Processing Pipeline
+Automated data ingestion and transformation with Docker + CircleCI.  
+Used config-driven modules and PowerBI for monitoring.
+
+### 🧾 Real-Time Collaboration App
+Django + WebSockets + GCP Cloud Run app with live doc editing and telemetry logging.  
+Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 ---
 
-## 📜 License
+## 🎓 Education
 
-This repository is licensed under the MIT License.
+**M.S. in Computer Science**, University of Akron – *May 2025*  
+**B.Tech in CSE**, GITAM University – *Apr 2023*
 
+---
+
+## 🧩 Fun Fact
+
+> I like to connect the dots between AI, backend systems, and automation — and I enjoy shipping code that actually gets used.
+
+---
+
+## 📬 Let’s Connect
+
+📧 chakradharnemali@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/chakradhar-n)  
+🐙 [GitHub](https://github.com/Chakradhar6304)
