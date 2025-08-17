@@ -59,6 +59,7 @@ Built a GPT-4 assistant using LangChain + FAISS + Cloud Functions.
 Added prompt tuning + RL to improve contextual accuracy and deploy it as a low-latency microservice.
 
 ### 📄 Resume Screening Engine
+[View Project on GitHub](https://github.com/Chakradhar6304/ai-resume-matcher)
 Used TensorFlow + spaCy to classify resumes and extract structured profiles.  
 Fully automated via Python APIs, CI/CD pipelines, and containerized deployment.
 
