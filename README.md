@@ -55,6 +55,7 @@ I’m a builder at heart with a strong passion for **software engineering**, **A
 ## 🛠️ Projects I'm Proud Of
 
 ### 🤖 GPT Workflow Assistant
+**[📄 Source Code](https://github.com/Chakradhar6304/gpt-workflow-assistant)**
 Built a GPT-4 assistant using LangChain + FAISS + Cloud Functions.  
 Added prompt tuning + RL to improve contextual accuracy and deploy it as a low-latency microservice.
 
