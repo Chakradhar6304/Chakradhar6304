@@ -84,7 +84,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 ## 🎓 Certifications
 
 - [Python Programming Fundamentals(Coursera)](https://coursera.org/share/4881023886ee9e77493ddc41f87d1864)
-- [Data Analysis and Visualization with Python](https://coursera.org/share/f1248618d0f818950c553ffe33e15e89)
+- [Data Analysis and Visualization with Python(Coursera)](https://coursera.org/share/f1248618d0f818950c553ffe33e15e89)
 
 ---
 
