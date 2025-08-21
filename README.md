@@ -81,6 +81,12 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 ---
 
+## 🎓 Certifications
+
+- [Python Programming Fundamentals(Coursera)](https://coursera.org/share/4881023886ee9e77493ddc41f87d1864)
+
+---
+
 ## 🧩 Fun Fact
 
 > I like to connect the dots between AI, backend systems, and automation — and I enjoy shipping code that actually gets used.
