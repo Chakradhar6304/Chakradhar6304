@@ -83,11 +83,19 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 ## 🎓 Certifications
 
-- [Python Programming Fundamentals(Coursera)](https://coursera.org/share/4881023886ee9e77493ddc41f87d1864)
-- [Data Analysis and Visualization with Python(Coursera)](https://coursera.org/share/f1248618d0f818950c553ffe33e15e89)
-- [Automation and Scripting with Python(Coursera)](https://coursera.org/share/d2a41b37af2b82bba2ae0f5fe6f5d25c)
-- [Web Development with Python(Coursera)](https://coursera.org/share/7c06f25ca6de92988bc0167ad6e4da2b)
-- [Advanced Python Development Techniques(Coursera)](https://coursera.org/share/0996908d4c7a3c8310bb9e7954336c8e)
+**[Microsoft Python Development Specialization (Coursera)](https://coursera.org/share/7007a27049b9f152a37acac47ad2551b)**  
+
+<details>
+<summary>Course Certificates Completed</summary>
+
+- [Python Programming Fundamentals](https://coursera.org/share/4881023886ee9e77493ddc41f87d1864)  
+- [Data Analysis and Visualization with Python](https://coursera.org/share/f1248618d0f818950c553ffe33e15e89)  
+- [Automation and Scripting with Python](https://coursera.org/share/d2a41b37af2b82bba2ae0f5fe6f5d25c)  
+- [Web Development with Python](https://coursera.org/share/7c06f25ca6de92988bc0167ad6e4da2b)  
+- [Advanced Python Development Techniques](https://coursera.org/share/0996908d4c7a3c8310bb9e7954336c8e)  
+- [Project Development in Python](https://coursera.org/share/564775672427ae9cf8347cbac51581fd)
+
+</details>
 
 ---
 
