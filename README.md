@@ -87,6 +87,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 - [Data Analysis and Visualization with Python(Coursera)](https://coursera.org/share/f1248618d0f818950c553ffe33e15e89)
 - [Automation and Scripting with Python(Coursera)](https://coursera.org/share/d2a41b37af2b82bba2ae0f5fe6f5d25c)
 - [Web Development with Python(Coursera)](https://coursera.org/share/7c06f25ca6de92988bc0167ad6e4da2b)
+- [Advanced Python Development Techniques(Coursera)](https://coursera.org/share/0996908d4c7a3c8310bb9e7954336c8e)
 
 ---
 
