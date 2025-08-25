@@ -97,6 +97,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 </details>
 
+- [Introduction to Information Technology and AWS Cloud(Coursera)](https://coursera.org/share/0907492c79bfdf237dfec586ef2e2457)
 ---
 
 ## 🧩 Fun Fact
