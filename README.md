@@ -97,12 +97,20 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 </details>
 
+**[AWS Cloud Support Associate Specialization](https://coursera.org/share/f707c905e21ea82179ce02c4106a1b81)**
+
+<details> <summary>Course Certificates Completed</summary>
+
 - [Introduction to Information Technology and AWS Cloud(Coursera)](https://coursera.org/share/0907492c79bfdf237dfec586ef2e2457)
 - [AWS Cloud Technical Essentials(Coursera)](https://coursera.org/share/98033331e7617ce250bb3873208fd544)
 - [Skills and Best Practices for Cloud Support Associates(Coursera)](https://coursera.org/share/0d444eb373b918a08cd2a3c9a25961b7)
 - [Cloud Support Essentials: A Technical Approach(Coursera)](https://coursera.org/share/f6aebc08a3e9bb57d821c8b67d8dce1c)
 - [Automation in the AWS Cloud(Coursera)](https://coursera.org/share/1f9c0b6245fc02453720b6c7bfee6350)
 - [Python for Serverless Applications and Automation on AWS(Coursera)](https://coursera.org/share/4377fd445b35e82e15d242e6e7121707)
+- [Capstone: Preparing to work as a Cloud Support Associate(Coursera)](https://coursera.org/share/c2395432220ed6b92af3de9cd98d5c11)
+
+</details>
+
 ---
 
 ## 🧩 Fun Fact
