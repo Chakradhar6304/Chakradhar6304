@@ -99,6 +99,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 - [Introduction to Information Technology and AWS Cloud(Coursera)](https://coursera.org/share/0907492c79bfdf237dfec586ef2e2457)
 - [AWS Cloud Technical Essentials(Coursera)](https://coursera.org/share/98033331e7617ce250bb3873208fd544)
+- [Skills and Best Practices for Cloud Support Associates(Coursera)](https://coursera.org/share/0d444eb373b918a08cd2a3c9a25961b7)
 ---
 
 ## 🧩 Fun Fact
