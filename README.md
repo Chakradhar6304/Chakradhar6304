@@ -102,6 +102,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 - [Skills and Best Practices for Cloud Support Associates(Coursera)](https://coursera.org/share/0d444eb373b918a08cd2a3c9a25961b7)
 - [Cloud Support Essentials: A Technical Approach(Coursera)](https://coursera.org/share/f6aebc08a3e9bb57d821c8b67d8dce1c)
 - [Automation in the AWS Cloud(Coursera)](https://coursera.org/share/1f9c0b6245fc02453720b6c7bfee6350)
+- [Python for Serverless Applications and Automation on AWS(Coursera)](https://coursera.org/share/4377fd445b35e82e15d242e6e7121707)
 ---
 
 ## 🧩 Fun Fact
