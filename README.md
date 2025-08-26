@@ -83,7 +83,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 ## 🎓 Certifications
 
-**[Microsoft Python Development Specialization (Coursera)](https://coursera.org/share/7007a27049b9f152a37acac47ad2551b)**  
+**[Microsoft-Python Development](https://coursera.org/share/7007a27049b9f152a37acac47ad2551b)**  
 
 <details>
 <summary>Course Certificates Completed</summary>
@@ -97,7 +97,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 </details>
 
-**[AWS Cloud Support Associate Specialization](https://coursera.org/share/f707c905e21ea82179ce02c4106a1b81)**
+**[AWS-Cloud Support Associate Specialization](https://coursera.org/share/f707c905e21ea82179ce02c4106a1b81)**
 
 <details> <summary>Course Certificates Completed</summary>
 
