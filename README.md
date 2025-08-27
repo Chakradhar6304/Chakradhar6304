@@ -111,6 +111,7 @@ Included accessibility-first UI and GitHub Actions for auto-deployments.
 
 </details>
 
+-[Introduction to DevOps(Coursera)](https://coursera.org/share/339865a8d6233f1b522cd806f0357482)
 ---
 
 ## 🧩 Fun Fact
